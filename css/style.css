@@ -132,6 +132,13 @@ img {
 
 
 
+/*--- BONUS -- */
+ @media screen and (min-width: 768px) {
+    .container {
+        max-width: 100%;
+    }
+}
+
 /*------ MEDIA QUERY------ */
 /* TABLET 768 */
 @media screen and (max-width: 768px) {
